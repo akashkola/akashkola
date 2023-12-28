@@ -107,8 +107,6 @@ Currently working on popular technologies like <b>DevOps, Data science, MLOps, C
   <img a width=450 align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=akashkola&langs_count=8&layout=compact&theme=react&border=61dafb&hide_border=true" />
 </a>
   
- <br><br><br><br><br><br><br><br><br><br>
-    
     
 <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="center" width=800 src="https://github-readme-streak-stats.herokuapp.com/?user=akashkola&theme=react&border=61dafb&hide_border=true" alt="akash kola" />
